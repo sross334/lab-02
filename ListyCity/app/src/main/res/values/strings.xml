@@ -3,4 +3,5 @@
     <string name="add">Add City</string>
     <string name="sample_text">sample_text</string>
     <string name="delete_city">Delete City</string>
+    <string name="type_city_name">Type City Name</string>
 </resources>
